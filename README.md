@@ -1,20 +1,16 @@
-<div align="center">
+<img align="right" src="girl-hey.gif" width="35%" alt="Hey there">
 
 ## Hey, I'm Bansi 👋
 
 *Software Engineer with 4+ years of experience building native mobile apps with Kotlin & Swift.*
 
-<img src="girl-hey.gif" width="280" alt="Hey there">
-
 I enjoy turning ideas into clean, reliable and user-friendly mobile experiences
 
-</div>
-
----
+<br clear="right">
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
@@ -37,12 +33,6 @@ Learning, building, experimenting and occasionally breaking things just to under
 
 ### 🤝 Let's connect
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="">
-
-<em><b>If you're interested in mobile development, open source, or building something cool, feel free to say hi!</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt=""> <em><b>If you're interested in mobile development, open source, or building something cool, feel free to say hi!</b></em>
 
 [LinkedIn](https://linkedin.com/in/bansimamtora) · [GitHub](https://github.com/mbansi)
-
-</div>
