@@ -1,6 +1,6 @@
-<img align="right" src="girl-hey.gif" width="35%" alt="Hey there">
+<img align="right" src="girl-hey.gif" width="32%" alt="Hey there">
 
-## Hey, I'm Bansi 👋
+### Hey, I'm Bansi 👋
 
 *Software Engineer with 4+ years of experience building native mobile apps with Kotlin & Swift.*
 
