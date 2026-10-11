@@ -1,4 +1,4 @@
-<img align="right" src="girl-hey.gif" width="32%" alt="Hey there">
+<img align="right" src="girl-heyy.gif" width="32%" alt="Hey there">
 
 ### Hey, I'm Bansi 👋
 
